@@ -93,3 +93,11 @@
 	path = youngka
 	url = https://github.com/ferenein/workwithme.guide-myguide.git
 	branch = master
+[submodule "dmytro-nazarenko-pantheon"]
+	path = dmytro-nazarenko-pantheon
+	url = https://github.com/dmytro-nazarenko-pantheon/workwithme.guide-myguide.git
+	branch = master
+[submodule "maxm-pantheon"]
+	path = maxm-pantheon
+	url = https://github.com/maxmylyn-pantheon/workwithme.guide-myguide.git
+	branch = master
